@@ -51,3 +51,6 @@ var jssor_1_options = {
             /*responsive code end*/
         };
 ```
+## Change Log
+1. Fix responsive issue
+2. Modify README
