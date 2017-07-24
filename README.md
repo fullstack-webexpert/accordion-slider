@@ -20,3 +20,7 @@ var jssor_1_options = {
   }
 };
 ```
+
+##TODOS
+- [x] Fix responsive issue
+- [ ] Modify interface
