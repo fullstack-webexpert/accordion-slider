@@ -21,6 +21,10 @@ var jssor_1_options = {
 };
 ```
 
-##TODOS
+## TODOS
 - [x] Fix responsive issue
 - [ ] Modify interface
+
+## Change Log
+1. Fix responsive issue
+2. Modify README
